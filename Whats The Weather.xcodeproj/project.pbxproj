@@ -12,6 +12,7 @@
 		154B66DC1BB8B38900B74153 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 154B66DA1BB8B38900B74153 /* Main.storyboard */; };
 		154B66DE1BB8B38900B74153 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 154B66DD1BB8B38900B74153 /* Assets.xcassets */; };
 		154B66E11BB8B38900B74153 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 154B66DF1BB8B38900B74153 /* LaunchScreen.storyboard */; };
+		154B66E91BB8B3E000B74153 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 154B66E81BB8B3E000B74153 /* background.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		154B66DD1BB8B38900B74153 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		154B66E01BB8B38900B74153 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		154B66E21BB8B38900B74153 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		154B66E81BB8B3E000B74153 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				154B66DA1BB8B38900B74153 /* Main.storyboard */,
 				154B66DD1BB8B38900B74153 /* Assets.xcassets */,
 				154B66DF1BB8B38900B74153 /* LaunchScreen.storyboard */,
+				154B66E81BB8B3E000B74153 /* background.png */,
 				154B66E21BB8B38900B74153 /* Info.plist */,
 			);
 			path = "Whats The Weather";
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				154B66E11BB8B38900B74153 /* LaunchScreen.storyboard in Resources */,
+				154B66E91BB8B3E000B74153 /* background.png in Resources */,
 				154B66DE1BB8B38900B74153 /* Assets.xcassets in Resources */,
 				154B66DC1BB8B38900B74153 /* Main.storyboard in Resources */,
 			);
